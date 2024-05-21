@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1qgBxtdJnzCptcTP62tMFf3KqxEgTCtxS/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -180,7 +180,7 @@ const workExperiences = {
       role: "Campus Ambassadar Intern",
       company: "GeekForGeeks",
        companylogo: require("./assets/images/gfg.png"),
-      date: "August 2023 – August 2023",
+      date: "August 2023 – August 2024",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets:[
         "Designed a custom hook to track user page time and currently working on implementing review engagement features.",
