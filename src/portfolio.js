@@ -143,8 +143,9 @@ const educationInfo = {
     {
       schoolName: "International Hindu School, Varanasi City",
       logo: require("./assets/images/ihs.jpeg"),
-      subHeader: "Bachelor of Technology in Information Technology",
+      subHeader: "The school is affliated to CBSE and my major in class 12th was Science",
       duration: "May 2017 - June 2021",
+      desc: "Held the position of head boy at school and provide tutoring to numerous class 12 students from home, ...",
     }
   ]
 };
@@ -178,14 +179,15 @@ const workExperiences = {
     
     {
       role: "Campus Ambassadar Intern",
-      company: "GeekForGeeks",
+      company: "GeeksForGeeks",
        companylogo: require("./assets/images/gfg.png"),
       date: "August 2023 – August 2024",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       descBullets:[
+        "As a GeeksforGeeks (GFG) Campus Ambassador, I organized coding workshops, managed logistics, and collaborated with GFG experts and local professionals. I represented GFG at college events and hackathons, engaging with students and promoting GFG resources. Additionally, I fostered a coding culture by creating study groups, providing mentorship, and sharing success stories to motivate peers.",
+        "I contributed to GFG's content library with articles and tutorials, shared coding tips through blogs and social media, and ensured high-quality content. I promoted GFG resources via campaigns and sessions, gathering feedback to improve services. This role allowed me to support GFG’s goals and enhance students' coding skills and career opportunities.",
         "Designed a custom hook to track user page time and currently working on implementing review engagement features.",
         "Developed re-usable components like Popups, Alert messages, etc and pages using React.Js and material UI",
-        "Integrated front end with back-end using REST APIs."
       ]
     },
   ]
